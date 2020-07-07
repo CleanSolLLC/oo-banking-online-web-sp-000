@@ -1,3 +1,4 @@
-class BankAccount(name)
 binding.pry
+class BankAccount
+
 end
