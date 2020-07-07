@@ -1,4 +1,4 @@
 require 'pry'
-class BankAccount(name)
+class BankAccount (name)
 
 end
